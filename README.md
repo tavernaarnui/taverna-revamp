@@ -2,7 +2,7 @@
 
 #### Preview
 
- - [Demo](https://themewagon.github.io/Lounge/)
+https://tavernaarnui.github.io/taverna-revamp/
 
 #### Download
  - [Download from ThemeWagon]( https://themewagon.com/themes/lounge)
